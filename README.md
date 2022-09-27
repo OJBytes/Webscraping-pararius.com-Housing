@@ -1,4 +1,4 @@
-This code helps to scrap required info from (parious.com)[Webscraping-parious.com-housing] a house rentage website.
+This code helps to scrap required info from [Webscraping-parious.com-housing] a house rentage website.
 the scraped search results are from amsterdam
 with the help of libraries like
 BeautifulSoup
