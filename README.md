@@ -1,6 +1,6 @@
 **ABOUT SOURCE CODE**
 
-This code helps to scrap required info from [parious.com](https://parious.com-housing) a house rentage website.
+This code helps to scrap required info from [pararius.com](https://https://www.pararius.com) a house rentage website.
 the scraped search results are from amsterdam
 with the help of libraries like
 BeautifulSoup
